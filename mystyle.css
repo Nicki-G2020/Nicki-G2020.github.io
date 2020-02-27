@@ -1,0 +1,20 @@
+body{
+	background-color: #d0cccc;
+	font-family:serif;
+}
+h1{
+	color: white;
+	font: sans-serif;
+}
+h2{
+	color: white;
+	font: serif;
+}
+h3{
+	color:white;
+	font: serif;
+}
+p{
+	color:black;
+	font:serif;
+}
